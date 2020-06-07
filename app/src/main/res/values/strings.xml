@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FinalWallpaperApp</string>
+    <string name="Hi">Hello</string>
+    <string name="copyright_text">Made by JAI MULANI</string>
+    <string name="Sub_title">Wallpapers</string>
+    <string name="Title">My</string>
+    <string name="download">Download</string>
+    <string name="image">imagecontent</string>
+    <string name="heading">Image Gallery</string>
+</resources>
